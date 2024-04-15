@@ -1,5 +1,6 @@
 # Howdy
-A social media app built on MERN
+A social media app built on MERN. Includes the features to login, add/remove friends, like/dislike images, upload posts with images, comments, share posts etc. 
+The website works in light mode and dark mode.
 
 ## Demo
 <img width="1332" alt="Screenshot 2024-04-15 at 5 55 43 PM" src="https://github.com/ginomangalan/Howdy/assets/13426092/fd15085a-abac-42db-97b1-b0ee57caa5ba">
