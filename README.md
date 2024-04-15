@@ -3,7 +3,7 @@ A social media app built on MERN. Includes the features to login, add/remove fri
 The website works in light mode and dark mode.
 
 ## Demo
-<img width="1332" alt="Screenshot 2024-04-15 at 5 55 43 PM" src="https://github.com/ginomangalan/Howdy/assets/13426092/fd15085a-abac-42db-97b1-b0ee57caa5ba">
+<img width="1704" alt="Screenshot 2024-04-15 at 6 57 41 PM" src="https://github.com/ginomangalan/Howdy/assets/13426092/33e55449-c786-458e-a52f-cecefd2f4811">
 
 <img width="1694" alt="Screenshot 2024-04-15 at 6 04 02 PM" src="https://github.com/ginomangalan/Howdy/assets/13426092/69ab8b72-c73f-47d0-bf26-617d2776e3f9">
 
